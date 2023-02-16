@@ -1,7 +1,8 @@
 #include <Wire.h>
 #include <SPI.h>
 #include <SD.h>
-#include <DS3231.h> // library take from here: http://www.rinkydinkelectronics.com/library.php?id=73
+#include <DS3231.h> // library take from here: http://www.rinkydinkelectronics.com/library.php?id=73;
+//download the http://www.rinkydinkelectronics.com/download.php?f=DS3231.zip
 #include <MQUnifiedsensor.h>
 
 //intialize pin
