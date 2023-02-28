@@ -5,6 +5,7 @@ float ntu;
 void setup()
 {
   Serial.begin(9600);
+  pinMode(sensorPin,INPUT);
 }
 
 void loop()
